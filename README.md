@@ -5,7 +5,8 @@
 
 এই প্রজেক্টটি মূলত DOM শেখার জন্য তৈরি করা হয়েছে এবং **Programming Hero** কোর্সের API ব্যবহার করে এটি ডেভেলপ করা হয়েছে। প্রজেক্টটি Document Object Model (DOM) এর বিভিন্ন প্রয়োগ দেখাতে সক্ষম এবং এটি নতুনদের জন্য একটি অসাধারণ টিউটোরিয়াল প্রজেক্ট।
 
-Youtube Video Credit : Learn With Sumit 
+Youtube Video Credit :
+Learn With Sumit 
 [![View on Youtube](http://img.youtube.com/vi/_WuDDnZMRiE/0.jpg)](http://www.youtube.com/watch?v=_WuDDnZMRiE)
 
 ## প্রজেক্ট সম্পর্কে
@@ -30,6 +31,8 @@ Youtube Video Credit : Learn With Sumit
 1. এই রেপোজিটরিটি ক্লোন করুন:
    ```sh
    git clone https://github.com/dev-hmyousuf/hack_Programming_Hero.git
+
+2. VS Code live server plugin ব্যবহার করে index.html ফাইলটি চালু করুন।
 
 # Contact
 - H.M. Yousuf - [hmyousuf2010@gmail.com](mailto:hmyousuf2010@gmail.com)
